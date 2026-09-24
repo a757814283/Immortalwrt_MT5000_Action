@@ -1,33 +1,5 @@
 # ImmortalWrt 自动编译
 
-## 适用于 光影猫 1代 的 immortalWrt 的自用固件
-### 配置文件基于顶配版调试：RM520N-GL + QCNFA765 / WCN6855
-
-
-### 包含必要插件：
-
-1. luci-app-modernband LTE/5G锁频或切换插件（已调试并包含配置文件）
-2. luci-app-smsjs 短信收发（已调试并包含配置文件）
-3. luci-app-mwan3 多wan自动切换（已调试并包含配置文件）
-
-### 多wan自动切换:
-WAN > WIFI桥接(wwan) > 5G/LTE(wwan_5g)
-
-### 上网插件：
-
-1. luci-app-passwall
-2. luci-app-smartdns
-
-### 其他：
-
-1. luci-app-cpufreq CPU频率调节
-2. luci-app-zerotier 虚拟局域网
-3. luci-mod-battstatus 电池状态显示
-
-<img width="2560" height="1250" alt="image" src="https://github.com/user-attachments/assets/10dee553-bab4-4d34-af9f-11db3455a62f" />
-<img width="2560" height="1250" alt="image" src="https://github.com/user-attachments/assets/734d07fa-3474-46e2-8f24-b1a56f3d1afe" />
-<img width="2560" height="1250" alt="image" src="https://github.com/user-attachments/assets/ea56631f-3496-4494-a4ca-fdde6615324c" />
-
 ## 使用步骤
 
 ### 正常流程
