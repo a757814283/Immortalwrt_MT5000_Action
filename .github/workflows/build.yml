@@ -7,12 +7,12 @@ on:
         description: 'ImmortalWrt 仓库的拥有者 (Owner of ImmortalWrt repo)'
         type: string
         required: true
-        default: 'immortalwrt'
+        default: 'a757814283'
       repo:
         description: 'ImmortalWrt 仓库的名字 (Name of ImmortalWrt repo)'
         type: string
         required: true
-        default: 'immortalwrt'
+        default: 'immortalwrt_mt5000'
       branch:
         description: 'ImmortalWrt 仓库的分支 (Branch of ImmortalWrt repo)'
         type: string
