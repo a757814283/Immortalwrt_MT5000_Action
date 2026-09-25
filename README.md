@@ -3,7 +3,7 @@
 ## 适用于 GL-iNet-MT5000 的 immortalWrt 固件
 
 ## 未经测试！
-仓库：https://github.com/a757814283/immortalwrt_mt5000 (由https://github.com/GLiNet-Tech/openwrt移植)
+仓库：https://github.com/a757814283/immortalwrt_mt5000 (由https://github.com/GLiNet-Tech/openwrt 移植)
 
 ### 上网插件：
 
