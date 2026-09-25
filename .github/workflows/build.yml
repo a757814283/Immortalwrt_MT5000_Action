@@ -260,7 +260,7 @@ jobs:
       - name: 生成发布标签 (Generate release tag)
         id: tag
         run: |
-          echo "name=ImmortalWrt-Photonicat1-$(date +%Y%m%d-%H%M%S)" >> "$GITHUB_OUTPUT"
+          echo "name=ImmortalWrt-GL-iNet-MT5000-$(date +%Y%m%d-%H%M%S)" >> "$GITHUB_OUTPUT"
 
       - name: 发布到 Release (Publish to Release)
         # 仅在 main 分支上发布；从其他分支触发只编译、不发布。
