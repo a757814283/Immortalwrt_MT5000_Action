@@ -1,5 +1,18 @@
 # ImmortalWrt 自动编译
 
+## 适用于 GL-iNet-MT5000 的 immortalWrt 固件
+### 仓库：https://github.com/a757814283/immortalwrt_mt5000(由https://github.com/GLiNet-Tech/openwrt移植)，未经测试！
+
+### 上网插件：
+
+1. luci-app-passwall
+2. luci-app-smartdns
+
+### 其他：
+
+1. luci-app-cpufreq CPU频率调节
+2. luci-app-zerotier 虚拟局域网
+
 ## 使用步骤
 
 ### 正常流程
